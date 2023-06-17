@@ -48,6 +48,6 @@ const server = httpServer.listen(PORT, () =>
 server.on("error", (err) => console.log(err)); 
 
 app.get('/*', async (req, res) => {
-  return res.status(404).json({ status: 'error', message: 'incorrect route' })
+  return res.status(404).json({ status: 'error', message: 'Page Not Found' })
 })
 
