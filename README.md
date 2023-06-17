@@ -15,7 +15,7 @@ Este repositorio contiene el código fuente para la segunda entrega del curso ba
 ### Ejecución
 - Inicia la aplicación ejecutando el siguiente comando:
    $ npm run dev
-- Abre tu navegador web y visita http://localhost:8080/products o http://localhost:8080/chat  o http://localhost:8080/carts/648dd9342ba9630bc00634a1para ver la aplicación en funcionamiento.
+- Abre tu navegador web y visita http://localhost:8080/products o http://localhost:8080/chat  o http://localhost:8080/carts/648dd9342ba9630bc00634a1 para ver la aplicación en funcionamiento.
 
 ### Uso
 La aplicación utiliza Handlebars como motor de plantillas para renderizar la interfaz de usuario.
