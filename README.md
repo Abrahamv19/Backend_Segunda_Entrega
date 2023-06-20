@@ -22,4 +22,4 @@ La aplicación utiliza Handlebars como motor de plantillas para renderizar la in
 
 Cuando accedas a la aplicación en tu navegador, podrás ver una lista de productos. Si otro usuario agrega, modifica o elimina un producto, la lista se actualizará automáticamente en todos los clientes conectados. Utiliza Postman para modificar productos o carritto de compras.
 
-- Link a Postaman: https://documenter.getpostman.com/view/27304406/2s93z3f5R7
+- Link a Postman: https://documenter.getpostman.com/view/27304406/2s93z3f5R7
